@@ -2,6 +2,8 @@
 ## Add File
 Add config_tree_10_27_23.py to D:/ozand/mmdetection/work_dir/custom_tree/
 ## Run Anaconda Prompt
+Type searchbar “Anaconda” and run Anaconda Prompt
+## Go mmdetection folder in Anaconda Prompt
 ```powershell
 D:
 cd D:/ozand/mmdetection
